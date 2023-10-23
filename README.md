@@ -10,4 +10,5 @@ Let me break it down for you. C isn't just a language; it's like exploring the h
 In conclusion, I want to say that my experiences have taught me the art of problem-solving, the importance of teamwork, and the resilience to face setbacks with a smile. After all, in the world of tech, bugs are just unexpected plot twists waiting to be resolved.
 
 🌐 [Linkedin](https://www.linkedin.com/in/annakrepkova/)
+
 📧 [Email Me](mailto:krepkovamail@gmail.com)
