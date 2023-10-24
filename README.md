@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Anna, just a regular person with a knack for technology and a passion for problem-solving. My journey has taken me through various roles and continents, shaping me into the person I am today. Over the last 10 years, I've done a bit of everything: from editing websites using WordPress and fixing HTML and CSS issues to organizing projects that solve city problems through crowdsourcing.
+I'm Anna, just a regular person with a knack for technology and a passion for problem-solving. My journey has taken me through various roles, shaping me into the person I am today. Over the last 10 years, I've done a bit of everything: from editing websites using WordPress and fixing HTML and CSS issues to organizing projects that solve city problems through crowdsourcing.
 
 But life, much like programming, is about adapting and evolving. So, here I am, embracing the challenge of learning data analytics on Coursera and diving into the world of software engineering at Codam College, where I'm learning C.
 
