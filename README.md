@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-I'm Anna, a passionate and curious developer with a strong foundation in low-level programming and web technologies. I am graduating from Codam College, where I specialized in C and C++, and I'm currently expanding into data analytics and full-stack development with JavaScript, TypeScript, Python, HTML, and CSS.
+Hi, I’m Anna — a curious developer who loves learning by building. I’m finishing up at Codam College, where I focused on C and C++, and lately I’ve been diving into full-stack development and modern web tools like JavaScript, TypeScript, Python, HTML, and CSS.
 
-For several years I’ve been working on everything from website editing and bug fixing to leading community-driven tech projects. I enjoy digging deep into how things work — whether it’s building a custom HTTP server, a basic 3D engine, or a multi-ball Pong game in JavaScript.
+Right now, I’m writing a recipe book app in React, learning how to build dashboards with Chart.js, and exploring mobile development with React Native and Expo Go. I enjoy digging into how things work, whether it’s a 3D engine, a custom HTTP server, or a fun little Pong game.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrepkov&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
